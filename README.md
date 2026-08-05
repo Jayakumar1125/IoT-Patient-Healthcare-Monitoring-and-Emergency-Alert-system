@@ -137,9 +137,4 @@ The system continuously evaluates sensor readings using predefined safety thresh
 ---
 
 # 👨‍💻 Author
-
-<div align="center">
-
-## **Jayakumar Murugesh**
-
-</div>
+# **Jayakumar Murugesh**
